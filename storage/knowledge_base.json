@@ -1,0 +1,53 @@
+{
+    "products": [
+        {
+            "name": "Customizable Office Desks",
+            "features": [
+                "Adjustable height"
+            ],
+            "materials": [
+                "high-quality wood"
+            ],
+            "customization_options": [
+                "Color"
+            ]
+        }
+    ],
+    "services": [
+        {
+            "name": null,
+            "description": null,
+            "process": [
+                ""
+            ],
+            "benefits": [
+                ""
+            ]
+        }
+    ],
+    "company_policies": [
+        {
+            "name": null,
+            "description": null,
+            "timeframe": null,
+            "process": [
+                ""
+            ],
+            "refund": null
+        }
+    ],
+    "faqs": [
+        {
+            "question": null,
+            "answer": null
+        }
+    ],
+    "multiple_choice": [
+        {
+            "question": null,
+            "options": [
+                ""
+            ]
+        }
+    ]
+}
